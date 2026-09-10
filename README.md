@@ -24,11 +24,11 @@ Contiene la explotación de los datos (Minería de Texto, TF-IDF, Topic Modeling
 * Detección de cambios de paradigma histórico (Estatización vs Privatización).
 * Identificación automatizada del "Espíritu Normativo" (Multas, Desregulación, Fijación Tarifaria) cruzado por períodos presidenciales.
 
-## 📄 Documentación Extendida
+## Documentación Extendida
 
 Para una explicación detallada de las decisiones metodológicas, justificación de librerías (Selenium, BeautifulSoup, Scikit-Learn, PyTorch) y el flujo de la base de datos PostgreSQL, referirse a `docs/ARQUITECTURA_Y_METODOLOGIA.md`.
 
-## ⚙️ Requisitos y Tecnologías
+## Requisitos y Tecnologías
 * Python 3.10+
 * Base de Datos: PostgreSQL
 * Librerías Core: `pandas`, `sqlalchemy`, `selenium`, `beautifulsoup4`, `transformers`, `torch`, `scikit-learn`.
