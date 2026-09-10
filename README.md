@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente completo, los pipelines de extracción de datos (web scraping) y los modelos de Procesamiento de Lenguaje Natural (NLP) utilizados para la tesis de grado/posgrado sobre la evolución histórica de la política energética argentina.
 
-## 🛠️ Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 El proyecto está estructurado en tres grandes etapas cronológicas y metodológicas:
 
