@@ -29,7 +29,7 @@ Contiene la configuración de los modelos fundacionales (Transformers/BERT) util
 
 ### 3. Análisis y Resultados (`/03_analisis_y_resultados`)
 Contiene la explotación de los datos (Minería de Texto, TF-IDF, Topic Modeling).
-* Aplicación automatizada de la taxonomía internacional de energías renovables y fósiles (IRENA 2024).
+* Aplicación automatizada de la taxonomía internacional de energías renovables y no renovables (IRENA 2024).
 * Detección de cambios de paradigma.
 * Identificación automatizada del espíritu de las normas (multas, desregulación, fijación tarifaria) cruzado por períodos presidenciales.
 
